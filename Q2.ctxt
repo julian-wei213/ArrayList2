@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Q2
+comment1.params=n
+comment1.target=void\ main(int)
+comment2.params=prime\ n
+comment2.target=void\ add(java.util.ArrayList,\ int)
+numComments=3
